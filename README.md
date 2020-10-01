@@ -1,2 +1,1 @@
-"# Spring-Soap-Example" 
-# Spring-Soap-Example
+This application don't have own gui
