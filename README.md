@@ -1,1 +1,1 @@
-This application don't have own gui
+This application don't have own gui use Postman
